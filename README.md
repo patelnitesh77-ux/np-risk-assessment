@@ -345,7 +345,7 @@ Portfolio/research project. Feedback welcome!
 - Add academy-specific variables
 - Validate against injury outcomes
 
-**Contact:** [www.linkedin.com/in/niteshppatel]
+**Contact:** [Nitesh Patel]
 
 ---
 
@@ -357,7 +357,7 @@ MIT License - Free for personal and commercial use
 
 ## 🙏 Credits
 
-Built by **Nitesh Patel** ([NP Performance Lab](YOUR_LINKEDIN))
+Built by **Nitesh Patel** ([NP Performance Lab]([www.linkedin.com/in/niteshppatel]))
 
 FIFA Diploma in Football Medicine | ASCA Level 1
 
