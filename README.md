@@ -357,7 +357,7 @@ MIT License - Free for personal and commercial use
 
 ## 🙏 Credits
 
-Built by **Nitesh Patel** ([NP Performance Lab]([www.linkedin.com/in/niteshppatel]))
+Built by **Nitesh Patel** (www.linkedin.com/in/niteshppatel)
 
 FIFA Diploma in Football Medicine | ASCA Level 1
 
@@ -390,7 +390,7 @@ Sample squad data included (20 players)
 - Training for coaching/medical staff
 - Ongoing support and updates
 
-Contact: [Your Email/LinkedIn]
+Contact: [(patelnitesh77@gmail.com) / [www.linkedin.com/in/niteshppatel]]
 
 ---
 
