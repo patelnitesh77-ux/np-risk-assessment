@@ -375,7 +375,7 @@ FIFA Diploma in Football Medicine | ASCA Level 1
 
 ## 🚀 Live Demo
 
-Try it now: **[[YOUR_DEPLOYED_URL](https://np-risk-assessment.streamlit.app/)L]**
+Try it now: **[[YOUR_DEPLOYED_URL](https://np-risk-assessment.streamlit.app/)]**
 
 Sample squad data included (20 players)
 
