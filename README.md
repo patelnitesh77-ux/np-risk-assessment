@@ -2,7 +2,7 @@
 
 **AI-powered weekly risk screening for football squads**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_DEPLOYED_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://np-risk-assessment.streamlit.app/)
 
 ---
 
