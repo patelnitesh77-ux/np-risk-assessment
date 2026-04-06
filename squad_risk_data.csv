@@ -1,0 +1,21 @@
+Player_ID,Player_Name,Age,Position,ACWR,Sleep_Hours,Wellness_Score,HSR_Distance,Sprint_Count,Metabolic_Power,Deceleration_Count,Max_Speed,Muscle_Soreness,match_minutes_7d,match_minutes_14d,matches_7d,days_since_injury,injury_count_12m,surface_type
+P001,Player 1,21,Defender,1.39,6.7,60,721,28,21.0,35,33.2,6,359,160,2,43,0,Artificial
+P002,Player 2,28,Midfielder,1.42,6.7,51,670,21,20.2,34,28.3,6,270,80,3,15,0,Natural
+P003,Player 3,25,Winger,1.44,6.4,58,667,23,28.1,33,28.1,4,339,121,3,18,2,Natural
+P004,Player 4,20,Midfielder,1.32,6.7,60,549,15,22.1,28,29.1,4,217,73,2,99,1,Artificial
+P005,Player 5,29,Midfielder,1.34,7.2,74,539,24,28.3,49,29.7,6,40,44,1,80,0,Natural
+P006,Player 6,31,Defender,1.35,7.3,71,635,28,27.1,27,32.7,5,260,70,3,83,0,Artificial
+P007,Player 7,28,Winger,1.17,6.9,73,536,12,24.7,29,33.8,5,256,34,2,94,2,Natural
+P008,Player 8,26,Winger,1.2,6.5,74,514,22,22.0,31,30.9,7,95,161,2,85,0,Natural
+P009,Player 9,23,Defender,1.27,7.0,72,535,28,21.6,26,31.7,3,133,57,2,72,1,Natural
+P010,Player 10,27,Midfielder,1.21,6.6,68,628,29,23.5,27,28.0,5,136,91,1,116,0,Natural
+P011,Player 11,24,Forward,0.97,7.7,85,517,29,23.6,41,29.5,6,294,159,3,339,0,Natural
+P012,Player 12,28,Midfielder,0.97,7.5,75,401,14,23.5,25,29.4,4,52,97,3,309,2,Natural
+P013,Player 13,22,Midfielder,0.96,8.3,79,515,20,28.2,40,33.0,6,186,99,1,277,2,Natural
+P014,Player 14,23,Winger,0.96,8.2,89,546,18,26.9,31,33.6,3,266,71,3,327,2,Artificial
+P015,Player 15,30,Winger,1.15,8.0,75,401,14,29.0,47,30.0,5,146,77,3,308,1,Natural
+P016,Player 16,30,Defender,1.06,7.6,82,503,25,21.0,27,33.8,4,337,83,3,263,0,Natural
+P017,Player 17,20,Winger,0.94,7.5,88,420,17,28.5,41,29.8,6,21,67,2,227,0,Natural
+P018,Player 18,17,Winger,1.12,8.1,76,420,24,24.9,29,29.4,5,3,64,1,209,0,Artificial
+P019,Player 19,24,Forward,1.14,8.4,77,523,26,25.5,27,33.9,6,190,96,2,216,0,Artificial
+P020,Player 20,31,Midfielder,1.13,8.2,82,423,11,22.5,34,33.3,3,103,166,3,293,1,Natural
